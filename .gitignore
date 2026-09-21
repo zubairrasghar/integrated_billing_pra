@@ -1,0 +1,21 @@
+# Local / OS
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Composer / Node (if added later)
+vendor/
+node_modules/
+
+# Uploads / generated
+uploads/
+tmp/
+cache/
